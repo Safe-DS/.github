@@ -1,4 +1,4 @@
-Closes #[issue_no].
+Closes #XYZ
 
 ### Summary of Changes
 
